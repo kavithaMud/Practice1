@@ -1,19 +1,4 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @kavithaMud
- Watch 1
-  Star 0
-  Fork 0 Bmaluru/GetDataProject
- Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathGetDataProject/run_analysis.R
-20058c2  on Feb 18, 2015
- Bmaluru First Commit
-0 contributors
-RawBlameHistory     131 lines (114 sloc)  7.79 KB
+# hello world
 
 require(plyr)
 
